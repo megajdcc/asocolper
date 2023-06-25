@@ -1,0 +1,81 @@
+@import "../js/src/@core/scss/core.scss";
+
+@font-face {
+  font-family: "cinzel-bold";
+  src: url("../fonts/Cinzel/static/Cinzel-Bold.ttf");
+}
+
+@font-face {
+  font-family: "cinzel-regular";
+  src: url("../fonts/Cinzel/static/Cinzel-Regular.ttf");
+}
+
+@font-face {
+  font-family: "cinzel-medium";
+  src: url("../fonts/Cinzel/static/Cinzel-Medium.ttf");
+}
+
+@font-face {
+  font-family: "cinzel-black";
+  src: url("../fonts/Cinzel/static/Cinzel-Black.ttf");
+}
+
+
+
+// @font-face {
+//   font-family: "cinzel";
+//   src: url("../fonts/Cinzel/static/.ttf");
+// }
+
+
+// body{
+//     font-family:cinzel serif !important;
+// }
+
+strong,h1,h2,h3,h4,h5,h6{
+    font-family:'cinzel-regular' !important;
+}
+
+// a,small,cite,p{
+//     font-family:'cinzel-regular' !important;
+// }
+
+
+.table-danger .text-nowrap,
+.table-success .text-nowrap,
+.table-info .text-nowrap,
+.table-warning .text-nowrap,
+.table-primary .text-nowrap
+ {
+    color: black;
+}
+
+
+.b-table-sticky-column{
+    color: black !important;
+}
+
+.horizontal-layout.navbar-floating:not(.blank-page) .app-content {
+    padding: 12.2rem 2rem 0;
+    margin-bottom: 1rem;
+}
+.content-wrapper{
+  margin-bottom: 1rem;
+}
+
+
+.horizontal-menu .header-navbar.navbar-horizontal ul#main-menu-navigation > li.active > a {
+    color: #fff !important;
+}
+
+// .horizontal-menu .horizontal-menu-wrapper .header-navbar {
+//     min-height: 2.45rem;
+// }
+
+// .main-menu .navbar-header .navbar-brand .brand-logo img {
+//     max-width: 230px !important;
+// }
+
+// .horizontal-menu .header-navbar.navbar-brand-center .navbar-header .navbar-brand .brand-logo img {
+//     max-width: 300px !important;
+// }

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://villamizarjarava.com/</loc>
+    <lastmod>2022-10-01</lastmod>
+      <image:image>
+        <image:loc>https://villamizarjarava.com/storage/logotipo.png</image:loc>
+        <image:title>Logo</image:title>
+      </image:image>
+  </url>
+
+  <url>
+    <loc>https://villamizarjarava.com/contacto</loc>
+    <lastmod>2022-10-01</lastmod>
+  </url>
+
+   <url>
+    <loc>https://villamizarjarava.com/quienes-somos</loc>
+    <lastmod>2022-10-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://villamizarjarava.com/servicios</loc>
+    <lastmod>2022-10-01</lastmod>
+  </url>
+
+   <url>
+    <loc>https://villamizarjarava.com/nuestros-socios</loc>
+    <lastmod>2022-10-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://villamizarjarava.com/blog</loc>
+    <lastmod>2022-10-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://villamizarjarava.com/login</loc>
+    <lastmod>2022-10-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://villamizarjarava.com/forgot-password</loc>
+    <lastmod>2022-10-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://villamizarjarava.com/politicas-privacidad</loc>
+    <lastmod>2022-10-05</lastmod>
+  </url>
+
+</urlset>
